@@ -1,0 +1,30 @@
+count function
+
+fruits=[1,2,3,4,9,5,9,3,1,2,2]
+x=fruits.count(2)
+             
+print(x)
+
+lst=["banana","banana","grape","apple","apple","apple"]
+b=lst.count("banana")
+b
+
+
+
+REMOVE FUNTION
+
+k=lst.remove("banana")
+lst
+
+D=fruits.remove(2)
+fruits
+
+index function
+
+n=fruits.index(5)
+n
+
+h=lst.index("grape")
+h
+
+
